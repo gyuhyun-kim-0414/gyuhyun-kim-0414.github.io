@@ -1,0 +1,24 @@
+---
+title: "Research"
+---
+## Published
+
+**ggg**
+ddd
+
+---
+
+## Working Papers
+
+**Title of Paper 1**  
+Short description of contribution.
+
+**Title of Paper 2**  
+Short description.
+
+---
+
+## Work in Progress
+
+- Project A
+- Project B
