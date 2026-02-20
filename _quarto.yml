@@ -17,4 +17,3 @@ format:
     theme:
       - cosmo
       - custom.scss
-    toc: true

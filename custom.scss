@@ -1,3 +1,5 @@
+/*-- scss:rules --*/
+
 /* ===== Body: generic monospace ===== */
 body {
   font-family: ui-monospace, SFMono-Regular, Menlo, Monaco,
@@ -5,7 +7,12 @@ body {
   line-height: 1.6;
 }
 
-/* ===== Code blocks: Courier 계열 ===== */
-code, pre {
+/* ===== Inline code ===== */
+code {
+  font-family: "Courier New", Courier, monospace;
+}
+
+/* ===== Code blocks ===== */
+pre, pre code {
   font-family: "Courier New", Courier, monospace;
 }

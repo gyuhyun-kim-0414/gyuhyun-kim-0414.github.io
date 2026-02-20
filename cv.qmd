@@ -2,4 +2,4 @@
 title: "Curriculum Vitae"
 ---
 
-[Download CV](gyuhyun_CV.pdf)
+[Download CV](gyuhyun_CV)
