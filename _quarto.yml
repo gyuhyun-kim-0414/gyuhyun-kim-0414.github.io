@@ -2,7 +2,7 @@ project:
   type: website
 
 website:
-  title: "gyuhyun-kim-0414.github.io"
+  title: "Gyu H. Kim"
   navbar:
     left:
       - href: index.qmd
