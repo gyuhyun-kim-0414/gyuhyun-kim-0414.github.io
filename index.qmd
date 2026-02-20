@@ -6,9 +6,9 @@ title: "Gyu H. Kim's Homepage"
 
 Assistant Professor
 
-Department of Economics and Finance 
+[Department of Economics and Finance]{https://economicsfinance.kmu.ac.kr/sites/economicsfinance/index.do}
 
-Keimyung University
+[Keimyung University]{https://kmu.ac.kr/uni/eng/main.jsp}
 
 I am an economist working on International Economics and Climate Change Policy. 
 My research focuses on methodological innovation and applied microeconometrics.
@@ -17,5 +17,5 @@ My research focuses on methodological innovation and applied microeconometrics.
 
 ## Contact
 
-- Email: gyu.kim@kmu.ac.kr
+- Email: [gyu.kim@kmu.ac.kr](mailto:gyu.kim@kmu.ac.kr)
 - Affiliation: Keimyung University, Daegu, South Korea
