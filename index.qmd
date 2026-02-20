@@ -1,7 +1,18 @@
 ---
-title: "gyuhyun-kim-0414.github.io"
+title: "Gyu Hyun Kim's Homapage"
 ---
 
-This is a Quarto website.
+## About
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+Assistant Professor
+Department of Economics and Finance 
+Keimyung University
+
+
+Research interests: Applied microeconomics, International economics, and Climate change policy
+
+---
+
+## Research
+
+Working papers and ongoing projects are available in the Research section.
