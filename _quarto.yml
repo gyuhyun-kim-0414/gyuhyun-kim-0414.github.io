@@ -4,13 +4,16 @@ project:
 website:
   title: "Gyu H. Kim"
   navbar:
-    right:
+    left:
       - href: index.qmd
         text: Home
       - href: research.qmd
         text: Research
       - href: cv.qmd
         text: CV
+    right:
+      - icon: google
+        href: https://scholar.google.com/citations?user=F5ujLRAAAAAJ&hl=ko
 
 format:
   html:
