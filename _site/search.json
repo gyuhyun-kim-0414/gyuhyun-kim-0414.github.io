@@ -1,0 +1,58 @@
+[
+  {
+    "objectID": "research.html",
+    "href": "research.html",
+    "title": "Research",
+    "section": "",
+    "text": "ggg ddd"
+  },
+  {
+    "objectID": "research.html#published",
+    "href": "research.html#published",
+    "title": "Research",
+    "section": "",
+    "text": "ggg ddd"
+  },
+  {
+    "objectID": "research.html#working-papers",
+    "href": "research.html#working-papers",
+    "title": "Research",
+    "section": "Working Papers",
+    "text": "Working Papers\nTitle of Paper 1\nShort description of contribution.\nTitle of Paper 2\nShort description."
+  },
+  {
+    "objectID": "research.html#work-in-progress",
+    "href": "research.html#work-in-progress",
+    "title": "Research",
+    "section": "Work in Progress",
+    "text": "Work in Progress\n\nProject A\nProject B"
+  },
+  {
+    "objectID": "cv.html",
+    "href": "cv.html",
+    "title": "Curriculum Vitae",
+    "section": "",
+    "text": "Download CV"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Gyu H. Kim’s Homapage",
+    "section": "",
+    "text": "Assistant Professor\nDepartment of Economics and Finance\nKeimyung University\nI am an economist working on International Economics and Climate Change Policy. My research focuses on methodological innovation and applied microeconometrics."
+  },
+  {
+    "objectID": "index.html#about",
+    "href": "index.html#about",
+    "title": "Gyu H. Kim’s Homapage",
+    "section": "",
+    "text": "Assistant Professor\nDepartment of Economics and Finance\nKeimyung University\nI am an economist working on International Economics and Climate Change Policy. My research focuses on methodological innovation and applied microeconometrics."
+  },
+  {
+    "objectID": "index.html#contact",
+    "href": "index.html#contact",
+    "title": "Gyu H. Kim’s Homapage",
+    "section": "Contact",
+    "text": "Contact\n\nEmail: gyu.kim@kmu.ac.kr\nAffiliation: Keimyung University, Daegu, South Korea"
+  }
+]
