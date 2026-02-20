@@ -1,0 +1,11 @@
+/* ===== Body: generic monospace ===== */
+body {
+  font-family: ui-monospace, SFMono-Regular, Menlo, Monaco,
+               Consolas, "Liberation Mono", monospace;
+  line-height: 1.6;
+}
+
+/* ===== Code blocks: Courier 계열 ===== */
+code, pre {
+  font-family: "Courier New", Courier, monospace;
+}
