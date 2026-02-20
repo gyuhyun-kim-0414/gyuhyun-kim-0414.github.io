@@ -1,24 +1,26 @@
 ---
 title: "Research"
+bibliography: references.bib
+nocite: |
+  @*
+format:
+  html:
+    cite-method: citeproc
 ---
-## Published
 
-**ggg**     
-ffddd
+## Published Papers
+
+::: {#refs}
+:::
 
 ---
 
 ## Working Papers
 
-**Title of Paper 1**  
-Short description of contribution.
-
-**Title of Paper 2**  
-Short description.
+*TBD*
 
 ---
 
 ## Work in Progress
 
-- Project A
-- Project B
+*TBD*
