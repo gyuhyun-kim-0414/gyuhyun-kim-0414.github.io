@@ -14,6 +14,8 @@ format:
 
 - Lee, Sanglim, Gyu Hyun Kim, Taewon Suh, and Jiwoong Lee. 2025. “Designing Carbon Contracts for Difference under Asymmetric Information.” *Economics Letters*: 112599. [DOI](https://doi.org/10.1016/j.econlet.2025.112599)
 
+- Kim, Gyu Hyun, and Jiwoong Lee. 2025. "Does the greenhouse gas Target Management System improve emission intensity in the industrial sector?" *Journal of Climate Change Research* 16(4): 721-727. [DOI] (https://www.scopus.com/pages/publications/105023477964?origin=resultslist)
+
 - Yoon, Beomseok, Yoonha Choi, and Gyu Hyun Kim. 2025. “Regulatory Trends in Climate Disclosure: A Focus on Implications for Industrial Transition.” *Journal of Cleaner Production* 521: 146087. [DOI](https://doi.org/10.1016/j.jclepro.2025.146087)
 
 - Lim, Jaekyu, and Gyu Hyun Kim. 2025. “The Impact of Collective Implementation of Carbon Border Adjustments on the Economy and Greenhouse Gas Emissions: A General Equilibrium Approach.” *Energy Reports* 13: 1225–1238. [DOI](https://doi.org/10.1016/j.egyr.2025.01.005)
