@@ -10,23 +10,23 @@ format:
 
 ## Published Papers
 
-9. Kim, Gyu Hyun, and Jun Yeong Lee. 2025. “The Socioeconomic Impact of Assisted Reproductive Technology Coverage in South Korea: Insights on Fertility, Marriage, and Childbirth Timing.” *The International Journal of Interdisciplinary Global Studies* 21(1): 71–87. [DOI](https://doi.org/10.18848/2324-755x/cgp/v21i01/71-87)
+- Kim, Gyu Hyun, and Jun Yeong Lee. 2025. “The Socioeconomic Impact of Assisted Reproductive Technology Coverage in South Korea: Insights on Fertility, Marriage, and Childbirth Timing.” *The International Journal of Interdisciplinary Global Studies* 21(1): 71–87. [DOI](https://doi.org/10.18848/2324-755x/cgp/v21i01/71-87)
 
-8. Lee, Sanglim, Gyu Hyun Kim, Taewon Suh, and Jiwoong Lee. 2025. “Designing Carbon Contracts for Difference under Asymmetric Information.” *Economics Letters*: 112599. [DOI](https://doi.org/10.1016/j.econlet.2025.112599)
+- Lee, Sanglim, Gyu Hyun Kim, Taewon Suh, and Jiwoong Lee. 2025. “Designing Carbon Contracts for Difference under Asymmetric Information.” *Economics Letters*: 112599. [DOI](https://doi.org/10.1016/j.econlet.2025.112599)
 
-7. Yoon, Beomseok, Yoonha Choi, and Gyu Hyun Kim. 2025. “Regulatory Trends in Climate Disclosure: A Focus on Implications for Industrial Transition.” *Journal of Cleaner Production* 521: 146087. [DOI](https://doi.org/10.1016/j.jclepro.2025.146087)
+- Yoon, Beomseok, Yoonha Choi, and Gyu Hyun Kim. 2025. “Regulatory Trends in Climate Disclosure: A Focus on Implications for Industrial Transition.” *Journal of Cleaner Production* 521: 146087. [DOI](https://doi.org/10.1016/j.jclepro.2025.146087)
 
-6. Lim, Jaekyu, and Gyu Hyun Kim. 2025. “The Impact of Collective Implementation of Carbon Border Adjustments on the Economy and Greenhouse Gas Emissions: A General Equilibrium Approach.” *Energy Reports* 13: 1225–1238. [DOI](https://doi.org/10.1016/j.egyr.2025.01.005)
+- Lim, Jaekyu, and Gyu Hyun Kim. 2025. “The Impact of Collective Implementation of Carbon Border Adjustments on the Economy and Greenhouse Gas Emissions: A General Equilibrium Approach.” *Energy Reports* 13: 1225–1238. [DOI](https://doi.org/10.1016/j.egyr.2025.01.005)
 
-5. Kim, Gyu Hyun, Sanglim Lee, and Jiwoong Lee. 2024. “Key Considerations for Implementing the Carbon Contract for Differences in Korea.” *Journal of Climate Change Research* 15(2): 239–250. [DOI](https://doi.org/10.15531/KSCCR.2024.15.2.239)
+- Kim, Gyu Hyun, Sanglim Lee, and Jiwoong Lee. 2024. “Key Considerations for Implementing the Carbon Contract for Differences in Korea.” *Journal of Climate Change Research* 15(2): 239–250. [DOI](https://doi.org/10.15531/KSCCR.2024.15.2.239)
 
-4. Yoon, Beomseok, and Gyu Hyun Kim. 2024. “A Study of Detailed Approaches for Reporting Quantitative Effects of Greenhouse Gas Emission Reductions for Policies and Measures in Accordance with the Paris Agreement.” *Journal of Climate Change Research* 15(2): 177–194. [DOI](https://doi.org/10.15531/KSCCR.2024.15.2.177)
+- Yoon, Beomseok, and Gyu Hyun Kim. 2024. “A Study of Detailed Approaches for Reporting Quantitative Effects of Greenhouse Gas Emission Reductions for Policies and Measures in Accordance with the Paris Agreement.” *Journal of Climate Change Research* 15(2): 177–194. [DOI](https://doi.org/10.15531/KSCCR.2024.15.2.177)
 
-3. He, Xi, Edward J. Balistreri, Gyu Hyun Kim, and Wendong Zhang. 2022. “A General Equilibrium Assessment of COVID-19's Labor Productivity Impacts on China's Regional Economies.” *Journal of Productivity Analysis* 58(2): 129–150. [DOI](https://doi.org/10.1007/s11123-022-00642-3)
+- He, Xi, Edward J. Balistreri, Gyu Hyun Kim, and Wendong Zhang. 2022. “A General Equilibrium Assessment of COVID-19's Labor Productivity Impacts on China's Regional Economies.” *Journal of Productivity Analysis* 58(2): 129–150. [DOI](https://doi.org/10.1007/s11123-022-00642-3)
 
-2. Kim, Gyu Hyun, and Hoffmann Kim. 2022. “Non-fundamental Home Bias in International Equity Markets.” *International Economics* 170: 213–234. [DOI](https://doi.org/10.1016/j.inteco.2022.04.004)
+- Kim, Gyu Hyun, and Hoffmann Kim. 2022. “Non-fundamental Home Bias in International Equity Markets.” *International Economics* 170: 213–234. [DOI](https://doi.org/10.1016/j.inteco.2022.04.004)
 
-1. Lee, Doowon, and Gyu Hyun Kim. 2010. “Analyzing the Effects of Korea's Grant Aid to Africa: Focusing on HDI (Human Development Index).” *International Area Studies Review* 14(3): 161–184.
+- Lee, Doowon, and Gyu Hyun Kim. 2010. “Analyzing the Effects of Korea's Grant Aid to Africa: Focusing on HDI (Human Development Index).” *International Area Studies Review* 14(3): 161–184.
 
 ---
 
