@@ -10,7 +10,7 @@ format:
 
 ## Published Papers
 
-- Wang, Xu, and Gyu Hyun Kim. 2026. “When regulation meets the market: synergistic effects of municipal solid waste management and emissions trading scheme on carbon emission efficiency in urban China." *Cogent Economics & Finance* 14(1): 2678011. [DOI] (https://doi.org/10.1080/23322039.2026.2678011)
+- Wang, Xu, and Gyu Hyun Kim. 2026. “When regulation meets the market: synergistic effects of municipal solid waste management and emissions trading scheme on carbon emission efficiency in urban China." *Cogent Economics & Finance* 14(1): 2678011. [DOI](https://doi.org/10.1080/23322039.2026.2678011)
 
 - Kim, Gyu Hyun, and Jun Yeong Lee. 2025. “The Socioeconomic Impact of Assisted Reproductive Technology Coverage in South Korea: Insights on Fertility, Marriage, and Childbirth Timing.” *The International Journal of Interdisciplinary Global Studies* 21(1): 71–87. [DOI](https://doi.org/10.18848/2324-755x/cgp/v21i01/71-87)
 
